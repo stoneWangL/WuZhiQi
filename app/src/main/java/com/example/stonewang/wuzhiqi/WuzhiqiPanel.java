@@ -46,7 +46,7 @@ public class WuzhiqiPanel extends View {
 
     public WuzhiqiPanel(Context context, @Nullable AttributeSet attrs) {
         super(context, attrs);
-//        setBackgroundColor(0x44ff0000);
+        setBackgroundColor(0x88000000);
         init();
     }
 

@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">WuZhiQi</string>
+    <string name="app_name">五子棋</string>
     <string name="action_settings">再来一局</string>
+    <string name="guize">规则：最先在棋盘横向、竖向、斜向形成连续的相同色五个棋子的一方为胜</string>
 </resources>
